@@ -1,59 +1,29 @@
-Bite off more than you can chew.
-Hit the nail on the head.
-Let the cat out of the bag.
-Spill the beans.
-Break the ice.
-Burn the midnight oil.
-Caught between a rock and a hard place.
-Kick the bucket.
-The ball is in your court.
-Under the weather.
-A blessing in disguise.
-Beat around the bush.
-Cost an arm and a leg.
-Once in a blue moon.
-The best of both worlds.
-You can’t have your cake and eat it too.
-Pull someone’s leg.
-Speak of the devil.
-Steal someone’s thunder.
-Let sleeping dogs lie.
-A stitch in time saves nine.
-Look before you leap.
-No pain, no gain.
-Birds of a feather flock together.
-An apple a day keeps the doctor away.
-Don't put all your eggs in one basket.
-If it ain't broke, don't fix it.
-You can't make an omelet without breaking eggs.
-The pen is mightier than the sword.
-He who laughs last laughs best.
-Jack of all trades, master of none.
-A friend in need is a friend indeed.
-Haste makes waste.
-Money doesn't grow on trees.
-Necessity is the mother of invention.
-Time and tide wait for no man.
-Curiosity killed the cat.
-You reap what you sow.
-It's no use crying over spilt milk.
-I'm gonna make him an offer he can't refuse.
-May the Force be with you.
-To be, or not to be, that is the question.
-All animals are equal, but some animals are more equal than others.
-It was the best of times, it was the worst of times.
-Not all those who wander are lost.
-I solemnly swear that I am up to no good.
-The only thing we have to fear is fear itself.
-Keep your friends close, but your enemies closer.
-Et tu, Brute?
-Power tends to corrupt, and absolute power corrupts absolutely.
-The ends justify the means.
+
 It is better to be feared than loved, if you cannot be both.
-A man who stands for nothing will fall for anything.
-Elementary, my dear Watson.
-You talking to me?
-Houston, we have a problem.
-Why so serious?
-Here's looking at you, kid.
-Life is like a box of chocolates.
+
+Men must be either caressed or annihilated.
+
+The lion cannot protect himself from traps, and the fox cannot defend himself from wolves.
+One must therefore be a fox to recognize traps, and a lion to frighten wolves.
+
+A prince must learn how not to be good.
+
+Politics have no relation to morals.
+
+Everyone sees what you appear to be, few experience what you really are.
+
+The ends justify the means.
+
+He who builds on the people builds on mud.
+
+A wise ruler ought never to keep faith when by doing so it would be against his interests.
+
+Fortune is a woman, and it is necessary to beat and coerce her to submit.
+
+The promise given was a necessity of the past: the word broken is a necessity of the present.
+
+Never attempt to win by force what can be won by deception.
+
+You ought never to suffer disorder to continue so as to avoid war, for war is not avoided thereby but is only deferred to your disadvantage.
+
+The first method for estimating the intelligence of a ruler is to look at the men he has around him.

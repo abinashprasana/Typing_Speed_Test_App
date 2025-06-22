@@ -59,13 +59,13 @@ Make sure `sentences.txt` is in the same folder as `main.py` to fetch typing pro
 
 ## 🎥 Video Demo
 
-If you'd like to **see it in action**, [click here to download the video demo](Typing%20Speed%20Test%20Program/Media/Typing_Speed_Test_App.mp4).
+If you'd like to **see it in action**, [click here to download the video demo](Typing%20Speed%20Test%20Program/media/Typing_Speed_Test_App.mp4).
 
 ---
 
 ## 🖼️ Screenshot
 
-![Typing Speed Test App Screenshot](Typing%20Speed%20Test%20Program/Media/Typing%20Speed%20Test%20App.png)
+![Typing Speed Test App Screenshot](Typing%20Speed%20Test%20Program/media/Typing%20Speed%20Test%20App.png)
 
 ---
 
